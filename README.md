@@ -1,4 +1,38 @@
-# React + Vite
+# React Setup (Vite)
+
+[![CI](https://github.com/Sriramnath-AI/React-Setup-Vite-/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Sriramnath-AI/React-Setup-Vite-/actions)
+
+A minimal React + Vite template.
+
+## ✅ Quick Start
+
+Prerequisites: Node.js (LTS), npm
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
